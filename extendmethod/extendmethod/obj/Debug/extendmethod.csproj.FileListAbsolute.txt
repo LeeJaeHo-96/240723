@@ -1,0 +1,2 @@
+C:\Users\User\Documents\GitHub\240723\extendmethod\extendmethod\obj\Debug\extendmethod.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\240723\extendmethod\extendmethod\obj\Debug\extendmethod.csproj.CoreCompileInputs.cache

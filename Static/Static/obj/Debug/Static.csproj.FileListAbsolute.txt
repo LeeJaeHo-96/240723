@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\240723\Static\Static\bin\Debug\Static.exe.config
+C:\Users\User\Documents\GitHub\240723\Static\Static\bin\Debug\Static.exe
+C:\Users\User\Documents\GitHub\240723\Static\Static\bin\Debug\Static.pdb
+C:\Users\User\Documents\GitHub\240723\Static\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\240723\Static\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\240723\Static\Static\obj\Debug\Static.exe
+C:\Users\User\Documents\GitHub\240723\Static\Static\obj\Debug\Static.pdb

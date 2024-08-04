@@ -1,0 +1,2 @@
+C:\Users\User\Documents\GitHub\240723\Generic\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\240723\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\240723\levelTest4\bin\Debug\net8.0\levelTest4.exe
+C:\Users\User\Documents\GitHub\240723\levelTest4\bin\Debug\net8.0\levelTest4.deps.json
+C:\Users\User\Documents\GitHub\240723\levelTest4\bin\Debug\net8.0\levelTest4.runtimeconfig.json
+C:\Users\User\Documents\GitHub\240723\levelTest4\bin\Debug\net8.0\levelTest4.dll
+C:\Users\User\Documents\GitHub\240723\levelTest4\bin\Debug\net8.0\levelTest4.pdb
+C:\Users\User\Documents\GitHub\240723\levelTest4\obj\Debug\net8.0\levelTest4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\240723\levelTest4\obj\Debug\net8.0\levelTest4.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\240723\levelTest4\obj\Debug\net8.0\levelTest4.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\240723\levelTest4\obj\Debug\net8.0\levelTest4.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\240723\levelTest4\obj\Debug\net8.0\levelTest4.sourcelink.json
+C:\Users\User\Documents\GitHub\240723\levelTest4\obj\Debug\net8.0\levelTest4.dll
+C:\Users\User\Documents\GitHub\240723\levelTest4\obj\Debug\net8.0\refint\levelTest4.dll
+C:\Users\User\Documents\GitHub\240723\levelTest4\obj\Debug\net8.0\levelTest4.pdb
+C:\Users\User\Documents\GitHub\240723\levelTest4\obj\Debug\net8.0\levelTest4.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\240723\levelTest4\obj\Debug\net8.0\ref\levelTest4.dll

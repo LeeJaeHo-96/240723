@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\bin\Debug\net8.0\LevelTestObject.exe
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\bin\Debug\net8.0\LevelTestObject.deps.json
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\bin\Debug\net8.0\LevelTestObject.runtimeconfig.json
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\bin\Debug\net8.0\LevelTestObject.dll
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\bin\Debug\net8.0\LevelTestObject.pdb
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\obj\Debug\net8.0\LevelTestObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\obj\Debug\net8.0\LevelTestObject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\obj\Debug\net8.0\LevelTestObject.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\obj\Debug\net8.0\LevelTestObject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\obj\Debug\net8.0\LevelTestObject.sourcelink.json
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\obj\Debug\net8.0\LevelTestObject.dll
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\obj\Debug\net8.0\refint\LevelTestObject.dll
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\obj\Debug\net8.0\LevelTestObject.pdb
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\obj\Debug\net8.0\LevelTestObject.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\240723\LevelTest\LevelTestObject\obj\Debug\net8.0\ref\LevelTestObject.dll

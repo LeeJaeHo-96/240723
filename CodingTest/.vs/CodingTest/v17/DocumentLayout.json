@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\240723\\CodingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83DB9733-97D6-41E4-87E1-BDAAD8E0877B}|CodingTest.csproj|c:\\users\\user\\documents\\github\\240723\\codingtest\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DB9733-97D6-41E4-87E1-BDAAD8E0877B}|CodingTest.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DB9733-97D6-41E4-87E1-BDAAD8E0877B}|CodingTest.csproj|c:\\users\\user\\documents\\github\\240723\\codingtest\\greatsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DB9733-97D6-41E4-87E1-BDAAD8E0877B}|CodingTest.csproj|solutionrelative:greatsword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DB9733-97D6-41E4-87E1-BDAAD8E0877B}|CodingTest.csproj|c:\\users\\user\\documents\\github\\240723\\codingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DB9733-97D6-41E4-87E1-BDAAD8E0877B}|CodingTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreatSword.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\240723\\CodingTest\\GreatSword.cs",
+              "RelativeDocumentMoniker": "GreatSword.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\240723\\CodingTest\\GreatSword.cs",
+              "RelativeToolTip": "GreatSword.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:30:54.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\240723\\CodingTest\\Weapon.cs",
+              "RelativeDocumentMoniker": "Weapon.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\240723\\CodingTest\\Weapon.cs",
+              "RelativeToolTip": "Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:29:50.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\240723\\CodingTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\240723\\CodingTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:30:30.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

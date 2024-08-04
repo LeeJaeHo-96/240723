@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\240723\abstract\abstract\bin\Debug\@abstract.exe.config
+C:\Users\User\Documents\GitHub\240723\abstract\abstract\bin\Debug\@abstract.exe
+C:\Users\User\Documents\GitHub\240723\abstract\abstract\bin\Debug\@abstract.pdb
+C:\Users\User\Documents\GitHub\240723\abstract\abstract\obj\Debug\abstract.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\240723\abstract\abstract\obj\Debug\abstract.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\240723\abstract\abstract\obj\Debug\@abstract.exe
+C:\Users\User\Documents\GitHub\240723\abstract\abstract\obj\Debug\@abstract.pdb

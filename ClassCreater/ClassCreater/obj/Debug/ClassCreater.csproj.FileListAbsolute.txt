@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\240723\ClassCreater\ClassCreater\bin\Debug\ClassCreater.exe.config
+C:\Users\User\Documents\GitHub\240723\ClassCreater\ClassCreater\bin\Debug\ClassCreater.exe
+C:\Users\User\Documents\GitHub\240723\ClassCreater\ClassCreater\bin\Debug\ClassCreater.pdb
+C:\Users\User\Documents\GitHub\240723\ClassCreater\ClassCreater\obj\Debug\ClassCreater.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\240723\ClassCreater\ClassCreater\obj\Debug\ClassCreater.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\240723\ClassCreater\ClassCreater\obj\Debug\ClassCreater.exe
+C:\Users\User\Documents\GitHub\240723\ClassCreater\ClassCreater\obj\Debug\ClassCreater.pdb

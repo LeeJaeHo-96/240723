@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\240723\Generic\Generic2\bin\Debug\Generic2.exe.config
+C:\Users\User\Documents\GitHub\240723\Generic\Generic2\bin\Debug\Generic2.exe
+C:\Users\User\Documents\GitHub\240723\Generic\Generic2\bin\Debug\Generic2.pdb
+C:\Users\User\Documents\GitHub\240723\Generic\Generic2\obj\Debug\Generic2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\240723\Generic\Generic2\obj\Debug\Generic2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\240723\Generic\Generic2\obj\Debug\Generic2.exe
+C:\Users\User\Documents\GitHub\240723\Generic\Generic2\obj\Debug\Generic2.pdb
